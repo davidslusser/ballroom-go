@@ -6,7 +6,7 @@
 
 
 ## Project Structure
-
+```
 ballroom-go/
 ├── main.go               # Entry point; sets up the Gin router and starts the server
 ├── models.go             # Request/response structs; 
@@ -14,7 +14,7 @@ ballroom-go/
 ├── handlers.go           # HTTP route logic
 ├── go.mod / go.sum       # Dependency files
 └── README.md             # Documentation
-
+```
 
 ## Run the app
 
