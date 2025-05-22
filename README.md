@@ -17,8 +17,16 @@ ballroom-go/
 ```
 
 ## Run the app
+```
+go run .
+```
 
-```go run *.go```
+## Build and run the app
+
+```
+go build -o ballroom-go
+./ballroom-go
+```
 
 ## Test with curl
 ```
